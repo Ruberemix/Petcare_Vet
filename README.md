@@ -23,7 +23,7 @@ Aplicación web sencilla construida con **React + Vite**.
 - Axios
 - Vite
 
-## Guyia de ejecución local
+## Guia de ejecución local
 
 ```bash
 # 1) Instalar dependencias
